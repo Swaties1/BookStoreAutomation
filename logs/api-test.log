@@ -1,0 +1,28 @@
+2025-07-24 07:17:36 [main] INFO  AccountUserTest - ===== Starting test for user: Sahaj
+2025-07-24 07:17:36 [main] INFO  AccountUserTest - Creating user: Sahaj
+2025-07-24 07:17:40 [main] INFO  AccountUserTest - User Created: b6bfd349-74a1-40aa-af29-2dbc95d73eab
+2025-07-24 07:17:41 [main] INFO  AccountUserTest - Token received: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IlNhaGFqIiwicGFzc3dvcmQiOiJUZXN0QDEyMzQiLCJpYXQiOjE3NTMzMzA2NjN9.4QAaqWLsEEcmXq8OS50_Qim8Ko3_YMwYiLNIsCrjqY8
+2025-07-24 07:17:42 [main] INFO  AccountUserTest - Deleting user ID: b6bfd349-74a1-40aa-af29-2dbc95d73eab
+2025-07-24 07:17:42 [main] INFO  AccountUserTest - Verifying deletion of user: b6bfd349-74a1-40aa-af29-2dbc95d73eab
+2025-07-24 07:17:43 [main] INFO  AccountUserTest - ===== Test completed for user: Sahaj =====
+2025-07-24 07:17:43 [main] INFO  AccountUserTest - ===== Starting test for user: Sehej
+2025-07-24 07:17:43 [main] INFO  AccountUserTest - Creating user: Sehej
+2025-07-24 07:17:43 [main] INFO  AccountUserTest - User Created: 335d776a-13a7-4a79-8318-231ec74e3503
+2025-07-24 07:17:44 [main] INFO  AccountUserTest - Token received: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IlNlaGVqIiwicGFzc3dvcmQiOiJUYWFkZ2dAMjM1IiwiaWF0IjoxNzUzMzMwNjY3fQ.lyFmRXzu3h6LVEyIHgbA9STGIJTrILlfaHgdLm7bJRk
+2025-07-24 07:17:46 [main] INFO  AccountUserTest - Deleting user ID: 335d776a-13a7-4a79-8318-231ec74e3503
+2025-07-24 07:17:46 [main] INFO  AccountUserTest - Verifying deletion of user: 335d776a-13a7-4a79-8318-231ec74e3503
+2025-07-24 07:17:46 [main] INFO  AccountUserTest - ===== Test completed for user: Sehej =====
+2025-07-24 07:22:57 [main] INFO  AccountUserTest - ===== Starting test for user: Sahaj
+2025-07-24 07:22:57 [main] INFO  AccountUserTest - Creating user: Sahaj
+2025-07-24 07:23:01 [main] INFO  AccountUserTest - User Created: 04c42054-e5f4-4c65-8b49-31fe906ae36a
+2025-07-24 07:23:02 [main] INFO  AccountUserTest - Token received: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IlNhaGFqIiwicGFzc3dvcmQiOiJUZXN0QDEyMzQiLCJpYXQiOjE3NTMzMzA5ODR9._WNuAiaUx8GUAyPEU4PeTOQoTJ6qhYDEzpu3ep3ocEE
+2025-07-24 07:23:04 [main] INFO  AccountUserTest - Deleting user ID: 04c42054-e5f4-4c65-8b49-31fe906ae36a
+2025-07-24 07:23:04 [main] INFO  AccountUserTest - Verifying deletion of user: 04c42054-e5f4-4c65-8b49-31fe906ae36a
+2025-07-24 07:23:05 [main] INFO  AccountUserTest - ===== Test completed for user: Sahaj =====
+2025-07-24 07:23:05 [main] INFO  AccountUserTest - ===== Starting test for user: Sehej
+2025-07-24 07:23:05 [main] INFO  AccountUserTest - Creating user: Sehej
+2025-07-24 07:23:05 [main] INFO  AccountUserTest - User Created: 23f32ea9-40f0-4b26-873f-e914c3e40405
+2025-07-24 07:23:06 [main] INFO  AccountUserTest - Token received: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IlNlaGVqIiwicGFzc3dvcmQiOiJUYWFkZ2dAMjM1IiwiaWF0IjoxNzUzMzMwOTg5fQ.NSoN6nAyfP95TCN3J9jr8XKBIEqJMPS42atsPWp336E
+2025-07-24 07:23:07 [main] INFO  AccountUserTest - Deleting user ID: 23f32ea9-40f0-4b26-873f-e914c3e40405
+2025-07-24 07:23:08 [main] INFO  AccountUserTest - Verifying deletion of user: 23f32ea9-40f0-4b26-873f-e914c3e40405
+2025-07-24 07:23:08 [main] INFO  AccountUserTest - ===== Test completed for user: Sehej =====
