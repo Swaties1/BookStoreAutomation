@@ -26,3 +26,21 @@
 2025-07-24 07:23:07 [main] INFO  AccountUserTest - Deleting user ID: 23f32ea9-40f0-4b26-873f-e914c3e40405
 2025-07-24 07:23:08 [main] INFO  AccountUserTest - Verifying deletion of user: 23f32ea9-40f0-4b26-873f-e914c3e40405
 2025-07-24 07:23:08 [main] INFO  AccountUserTest - ===== Test completed for user: Sehej =====
+2025-07-24 23:19:26 [main] INFO  AccountUserTest - ===== Starting test for user: Sahaj
+2025-07-24 23:19:26 [main] INFO  AccountUserTest - Creating user: Sahaj
+2025-07-24 23:19:31 [main] INFO  AccountUserTest - User Created: b22d72d4-52e9-4c21-8e83-0f174d31bc47
+2025-07-24 23:19:32 [main] INFO  AccountUserTest - Token received: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IlNhaGFqIiwicGFzc3dvcmQiOiJUZXN0QDEyMzQiLCJpYXQiOjE3NTMzODgzNzJ9.PeOu7lwIvUM0VzBgpQdOhk7mPMfnaTAVhCg7Dzj4KvM
+2025-07-24 23:19:33 [main] INFO  AccountUserTest - Deleting user ID: b22d72d4-52e9-4c21-8e83-0f174d31bc47
+2025-07-24 23:19:34 [main] INFO  AccountUserTest - Verifying deletion of user: b22d72d4-52e9-4c21-8e83-0f174d31bc47
+2025-07-24 23:19:34 [main] INFO  AccountUserTest - ===== Test completed for user: Sahaj =====
+2025-07-24 23:19:34 [main] INFO  AccountUserTest - ===== Starting test for user: Sehej
+2025-07-24 23:19:34 [main] INFO  AccountUserTest - Creating user: Sehej
+2025-07-24 23:19:35 [main] INFO  AccountUserTest - User Created: 0e3f57dc-c9b7-46d1-aa23-7b7ddad6eb3d
+2025-07-24 23:19:36 [main] INFO  AccountUserTest - Token received: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IlNlaGVqIiwicGFzc3dvcmQiOiJUYWFkZ2dAMjM1IiwiaWF0IjoxNzUzMzg4Mzc2fQ.qwt6gq-3Ic1aEuKxxYqEFxVE_chBj6yEfHxGDeH1Reo
+2025-07-24 23:19:37 [main] INFO  AccountUserTest - Deleting user ID: 0e3f57dc-c9b7-46d1-aa23-7b7ddad6eb3d
+2025-07-24 23:19:38 [main] INFO  AccountUserTest - Verifying deletion of user: 0e3f57dc-c9b7-46d1-aa23-7b7ddad6eb3d
+2025-07-24 23:19:38 [main] INFO  AccountUserTest - ===== Test completed for user: Sehej =====
+2025-07-24 23:31:31 [main] INFO  LoginTest - Opening login page for user: Ssmart
+2025-07-24 23:31:38 [main] INFO  LoginTest - Asserting login success for valid user: Ssmart
+2025-07-24 23:31:41 [main] INFO  LoginTest - Opening login page for user: xyz
+2025-07-24 23:31:47 [main] INFO  LoginTest - Asserting error message for invalid user: xyz

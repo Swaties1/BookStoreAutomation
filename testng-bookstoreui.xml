@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="UI Test Suite">
+    <listeners>
+        <listener class-name="com.bookstore.listeners.TestListener"/>
+    </listeners>
+
+    <test name="UI Tests">
+        <packages>
+            <package name="com.bookstore.ui.test"/>
+        </packages>
+    </test>
+</suite>

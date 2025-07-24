@@ -3,11 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="api.test.AccountUserTest">
+      <class name="com.bookstore.ui.test.RegisterUserTest">
         <methods>
-          <include name="testCreateAndDeleteUser" invocation-numbers="0 1"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="setUpReport"/>
+          <include name="flushReport"/>
+          <include name="testRegisterUser" invocation-numbers="0 1 2"/>
         </methods>
-      </class> <!-- api.test.AccountUserTest -->
+      </class> <!-- com.bookstore.ui.test.RegisterUserTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
